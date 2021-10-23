@@ -10,7 +10,11 @@
 	<script src="assets/js/index.js"></script>
 </head>
 
-<body>
+<body onload="backAudPlay()">
+	<audio autoplay loop id="backAudio">
+		<source src="assets/audio/MorningChill.mp3" type="audio/mp3">
+	</audio>	
+	<a id="playMute" onclick="playStopBack()" href="#muted">Mute</a>
 	<!-- Hey, welcome to the source code! -->
 	<div id="notfound">
 		<div class="notfound">
