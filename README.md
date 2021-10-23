@@ -1,3 +1,3 @@
 # (Almost) About Me Page!
 
-![The Website](https://spikyspike.github.io) 😼
+<a href="https://spikyspike.github.io">Visit it!</a>
