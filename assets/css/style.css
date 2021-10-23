@@ -137,10 +137,6 @@ body {
   color: #fff;
 }
 
-#invis {
-  display: none;
-}
-
 ::selection {
   background-color: #777777;
 }
