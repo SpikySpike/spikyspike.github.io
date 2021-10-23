@@ -1,9 +1,3 @@
-# SpikySpike
+# (Almost) About Me Page!
 
-### Welcome to my page! 
-My favourite ❤ things are now:
-* **JavaScript**
-* **Discord.JS**
-* **Web Development**
-
-I'm a student, but working hard to improve! 👋
+![The Website](https://spikyspike.github.io) 😼
